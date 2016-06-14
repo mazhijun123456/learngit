@@ -1,9 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-123123456789
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> featurel
+Git has a mutable index called stag
+Creating a new branch is quick AND simple.
